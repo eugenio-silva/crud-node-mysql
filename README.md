@@ -30,6 +30,9 @@ In addition, it is good to have an editor to work with the code as [VSCode](http
 The following tools were used in the construction of the project:
 
 - [Node.js](https://nodejs.org/en/)
+- [mysql](https://www.mysql.com/)
+- [hbs](https://handlebarsjs.com/)
+- [express](https://expressjs.com/)
 
 ### Autor
 ---
