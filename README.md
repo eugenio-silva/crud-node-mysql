@@ -11,3 +11,8 @@
       * [Combo](#combo)
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
+
+### Features
+
+- [x] User registration 
+- [x] User Login
