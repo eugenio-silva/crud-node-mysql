@@ -37,3 +37,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 
+### Autor
+---
+
+Feito com ❤️ por Lucas Silva 👋🏽 Entre em contato!
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silva-b12b281a3/)](https://www.linkedin.com/in/tgmarinho/) 
+
