@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #b2a5c5;
+    color: rgb(36, 33, 33);
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+} 
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    text-decoration: none;
+    list-style: none;
+    color: rgb(36, 33, 33);
+    font-weight: bold;
+}
+
+nav li a:hover {
+    color: yellow;
+}
