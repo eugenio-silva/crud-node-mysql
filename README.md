@@ -4,13 +4,13 @@
    * [About](#About)
    * [Features](#Features)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+      * [Pre-requisites](#Pre-requisites)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Test](#test)
+   * [Technologies](#Technologies)
 
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
@@ -25,13 +25,13 @@ Login interface with regitration user and login of the user. Save in the Mysql d
 - [x] User registration 
 - [x] User Login
 
-### Pré-requisitos
+### Pre-requisites
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
