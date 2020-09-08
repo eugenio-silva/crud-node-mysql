@@ -12,6 +12,10 @@
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 
+<h4 align="center"> 
+	🚧  🚀 Em construção...  🚧
+</h4>
+
 ### About
 
 Login interface with regitration user and login of the user. Save in the Mysql database.
@@ -26,4 +30,10 @@ Login interface with regitration user and login of the user. Save in the Mysql d
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
 
