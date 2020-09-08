@@ -42,5 +42,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com muito carinho por Lucas Silva 👋🏽 Entre em contato!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silva-b12b281a3/)](https://www.linkedin.com/in/lucas-silva/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silva-b12b281a3/)](https://www.linkedin.com/in/lucas-silva-b12b281a3/) 
 
