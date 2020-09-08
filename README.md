@@ -2,7 +2,7 @@
 ![Badge](https://img.shields.io/github/issues/eugenio-silva/crud-node-mysql)
 
    * [About](#About)
-   * [Instalação](#instalacao)
+   * [Features](#Features)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
