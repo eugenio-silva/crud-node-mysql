@@ -7,7 +7,7 @@
    * [Technologies](#Technologies)
 
 <h4 align="center"> 
-	🚧  🚀 Em construção...  🚧
+	🚧  🚀 under construction...  🚧
 </h4>
 
 ### About
